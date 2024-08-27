@@ -1,2 +1,2 @@
 # POM
-POM statnds for Page 
+POM statnds for Page Object
